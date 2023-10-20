@@ -1,0 +1,14 @@
+{
+  "name": "projet_api_2",
+  "version": "1.0.0",
+  "description": "api node conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Louis-Philippe, Justine, Carl-olivier",
+  "license": "ISC"
+}
