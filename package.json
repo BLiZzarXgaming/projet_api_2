@@ -10,5 +10,8 @@
     "api"
   ],
   "author": "Louis-Philippe, Justine, Carl-olivier",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
